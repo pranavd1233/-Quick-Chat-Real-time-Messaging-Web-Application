@@ -1,5 +1,7 @@
 # -Quick-Chat-Real-time-Messaging-Web-Application
 
+Author : Pranav Deshmane
+
 Here's a concise and well-structured project description for the chat application:
 
 ---
